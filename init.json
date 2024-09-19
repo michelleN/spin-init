@@ -8,7 +8,7 @@
     {
       "os": "macos",
       "arch": "aarch64",
-      "url": "file:///Users/michelle/src/spin-init/init-0.1-macos-aarch64.tar.gz",
+      "url": "https://github.com/michelleN/spin-init/blob/main/init-0.1-macos-aarch64.tar.gz",
       "sha256": "d202fdb1975b0453df015e79396389c1d95e8bf85a1c11b5261ef169366018d8"
     }
   ]
